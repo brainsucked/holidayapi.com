@@ -11,5 +11,5 @@
     { "name" : "Ден на независимостта на България",                     "rule" : "September 22th" },
     { "name" : "Коледа",                                                "rule" : "December 24th" },
     { "name" : "Коледа",                                                "rule" : "December 25th" },
-    { "name" : "Коледа",                                                "rule" : "December 26th" },
+    { "name" : "Коледа",                                                "rule" : "December 26th" }
 ]
